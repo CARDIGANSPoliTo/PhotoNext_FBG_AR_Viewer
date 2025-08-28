@@ -1,0 +1,8 @@
+Connection Type (Local | Database | Past):
+IP:    
+Port: 
+Username (NO LOCAL): 
+Password (NO LOCAL): 
+Database Name (NO LOCAL): 
+Collection Name (NO LOCAL): 
+
